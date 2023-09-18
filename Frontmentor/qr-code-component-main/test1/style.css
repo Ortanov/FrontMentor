@@ -1,0 +1,27 @@
+body{
+
+background-color: #D6E2EFFF;
+}
+
+img{width: 100%;height: auto;}
+p{color: #B4B9C3FF;}
+
+
+.QR_block{
+	width: 20%;
+	max-height: 20%;
+	font-size:1vw;
+	background-color: #fff;
+	padding: 1%;
+	border-radius: 10px;
+	text-align: center;
+}
+.radius_img{border-radius: 10px;}
+
+.glav_content{
+	width: 100%;
+	margin-top: 5%;
+	display: flex;
+	justify-content: center;
+
+}
